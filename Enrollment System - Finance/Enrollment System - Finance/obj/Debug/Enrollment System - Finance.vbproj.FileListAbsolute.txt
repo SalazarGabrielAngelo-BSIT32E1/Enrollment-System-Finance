@@ -1,0 +1,33 @@
+D:\OneDrive\Desktop\Enrollment System - Finance\Enrollment System - Finance\Enrollment System - Finance\bin\Debug\Enrollment System - Finance.exe.config
+D:\OneDrive\Desktop\Enrollment System - Finance\Enrollment System - Finance\Enrollment System - Finance\bin\Debug\Enrollment System - Finance.exe
+D:\OneDrive\Desktop\Enrollment System - Finance\Enrollment System - Finance\Enrollment System - Finance\bin\Debug\Enrollment System - Finance.pdb
+D:\OneDrive\Desktop\Enrollment System - Finance\Enrollment System - Finance\Enrollment System - Finance\bin\Debug\Enrollment System - Finance.xml
+D:\OneDrive\Desktop\Enrollment System - Finance\Enrollment System - Finance\Enrollment System - Finance\bin\Debug\Bunifu_UI_v1.52.dll
+D:\OneDrive\Desktop\Enrollment System - Finance\Enrollment System - Finance\Enrollment System - Finance\obj\Debug\Enrollment System - Finance.vbproj.AssemblyReference.cache
+D:\OneDrive\Desktop\Enrollment System - Finance\Enrollment System - Finance\Enrollment System - Finance\obj\Debug\Enrollment_System___Finance.Form1.resources
+D:\OneDrive\Desktop\Enrollment System - Finance\Enrollment System - Finance\Enrollment System - Finance\obj\Debug\Enrollment_System___Finance.frmFinance.resources
+D:\OneDrive\Desktop\Enrollment System - Finance\Enrollment System - Finance\Enrollment System - Finance\obj\Debug\Enrollment_System___Finance.frmListOfStudents.resources
+D:\OneDrive\Desktop\Enrollment System - Finance\Enrollment System - Finance\Enrollment System - Finance\obj\Debug\Enrollment_System___Finance.frmPayment.resources
+D:\OneDrive\Desktop\Enrollment System - Finance\Enrollment System - Finance\Enrollment System - Finance\obj\Debug\Enrollment_System___Finance.Resources.resources
+D:\OneDrive\Desktop\Enrollment System - Finance\Enrollment System - Finance\Enrollment System - Finance\obj\Debug\Enrollment System - Finance.vbproj.GenerateResource.cache
+D:\OneDrive\Desktop\Enrollment System - Finance\Enrollment System - Finance\Enrollment System - Finance\obj\Debug\Enrollment System - Finance.vbproj.CoreCompileInputs.cache
+D:\OneDrive\Desktop\Enrollment System - Finance\Enrollment System - Finance\Enrollment System - Finance\obj\Debug\Enrollme.C1EE0A75.Up2Date
+D:\OneDrive\Desktop\Enrollment System - Finance\Enrollment System - Finance\Enrollment System - Finance\obj\Debug\Enrollment System - Finance.exe
+D:\OneDrive\Desktop\Enrollment System - Finance\Enrollment System - Finance\Enrollment System - Finance\obj\Debug\Enrollment System - Finance.xml
+D:\OneDrive\Desktop\Enrollment System - Finance\Enrollment System - Finance\Enrollment System - Finance\obj\Debug\Enrollment System - Finance.pdb
+C:\Users\Varon Ian\Desktop\Enrollment System - Finance\Enrollment System - Finance\Enrollment System - Finance\bin\Debug\Enrollment System - Finance.exe.config
+C:\Users\Varon Ian\Desktop\Enrollment System - Finance\Enrollment System - Finance\Enrollment System - Finance\bin\Debug\Enrollment System - Finance.exe
+C:\Users\Varon Ian\Desktop\Enrollment System - Finance\Enrollment System - Finance\Enrollment System - Finance\bin\Debug\Enrollment System - Finance.pdb
+C:\Users\Varon Ian\Desktop\Enrollment System - Finance\Enrollment System - Finance\Enrollment System - Finance\bin\Debug\Enrollment System - Finance.xml
+C:\Users\Varon Ian\Desktop\Enrollment System - Finance\Enrollment System - Finance\Enrollment System - Finance\obj\Debug\Enrollment System - Finance.vbproj.AssemblyReference.cache
+C:\Users\Varon Ian\Desktop\Enrollment System - Finance\Enrollment System - Finance\Enrollment System - Finance\obj\Debug\Enrollment_System___Finance.Form1.resources
+C:\Users\Varon Ian\Desktop\Enrollment System - Finance\Enrollment System - Finance\Enrollment System - Finance\obj\Debug\Enrollment_System___Finance.frmFinance.resources
+C:\Users\Varon Ian\Desktop\Enrollment System - Finance\Enrollment System - Finance\Enrollment System - Finance\obj\Debug\Enrollment_System___Finance.frmListOfStudents.resources
+C:\Users\Varon Ian\Desktop\Enrollment System - Finance\Enrollment System - Finance\Enrollment System - Finance\obj\Debug\Enrollment_System___Finance.frmPayment.resources
+C:\Users\Varon Ian\Desktop\Enrollment System - Finance\Enrollment System - Finance\Enrollment System - Finance\obj\Debug\Enrollment_System___Finance.Resources.resources
+C:\Users\Varon Ian\Desktop\Enrollment System - Finance\Enrollment System - Finance\Enrollment System - Finance\obj\Debug\Enrollment System - Finance.vbproj.GenerateResource.cache
+C:\Users\Varon Ian\Desktop\Enrollment System - Finance\Enrollment System - Finance\Enrollment System - Finance\obj\Debug\Enrollment System - Finance.vbproj.CoreCompileInputs.cache
+C:\Users\Varon Ian\Desktop\Enrollment System - Finance\Enrollment System - Finance\Enrollment System - Finance\obj\Debug\Enrollme.C1EE0A75.Up2Date
+C:\Users\Varon Ian\Desktop\Enrollment System - Finance\Enrollment System - Finance\Enrollment System - Finance\obj\Debug\Enrollment System - Finance.exe
+C:\Users\Varon Ian\Desktop\Enrollment System - Finance\Enrollment System - Finance\Enrollment System - Finance\obj\Debug\Enrollment System - Finance.xml
+C:\Users\Varon Ian\Desktop\Enrollment System - Finance\Enrollment System - Finance\Enrollment System - Finance\obj\Debug\Enrollment System - Finance.pdb
